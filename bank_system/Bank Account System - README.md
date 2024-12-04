@@ -15,19 +15,19 @@ Setup Instructions
 
 Database Setup:
 
-import the sql file
+import the bank_system.sql file found in this same folder (bank_system)
 
 Configure Database Connection:
 
 Edit the db.php file to match your MySQL credentials (username, password, database name).
 Place Files in Your Web Server's Root Directory:
 
-For XAMPP: htdocs folder (C:\xampp\htdocs\bank-system).
-For WAMP: www folder (C:\wamp\www\bank-system).
+For XAMPP: htdocs folder (C:\xampp\htdocs\bank_system).
+For WAMP: www folder (C:\wamp\www\bank_system).
 
 Running the Program
 Start Apache and MySQL in your local server (e.g., XAMPP or WAMP).
-Open your browser and navigate to http://localhost/bank-system/index.php.
+Open your browser and navigate to http://localhost/bank_system/index.php.
 
 Key Features
 Create Account: Create a new bank account (checking or savings).
