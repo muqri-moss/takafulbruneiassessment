@@ -1,4 +1,4 @@
-<!-- Muqri Moss Submission Question #1 -->
+<!-- Muqri Moss Submission Question Static #1 -->
 
 <?php
 
